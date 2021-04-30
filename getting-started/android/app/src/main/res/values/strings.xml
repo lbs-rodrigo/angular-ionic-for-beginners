@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Draft Fingerprint</string>
+    <string name="title_activity_main">Draft Fingerprint</string>
+    <string name="package_name">com.angular.ionic.draft.fingerprint</string>
+    <string name="custom_url_scheme">com.angular.ionic.draft.fingerprint</string>
+</resources>
