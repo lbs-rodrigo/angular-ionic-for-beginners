@@ -1,0 +1,13 @@
+{
+  "appId": "com.angular.ionic.draft.fingerprint",
+  "appName": "Draft Fingerprint",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/draft-fingerprint",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
